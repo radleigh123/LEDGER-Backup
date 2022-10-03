@@ -1,0 +1,19 @@
+; https://www.ledger-cli.org/3.0/doc/ledger3.html#Introduction-to-Ledger
+2022-09-26 Starting Balance
+	Assets:Checking		$164.00
+	StartingBalance
+2022-10-02 Keane
+	Expenses:Miscellaneous	$33.00
+	Assets:Checking
+2022-10-03 Keane
+	Expenses:Miscellaneous	$22.00
+	Assets:Checking
+2022-10-03 Keane
+	Assets:Checking		$250.00
+	Income:Salary:School
+2022-10-03 Keane
+	Expenses:Miscellaneous	$354.00
+	Assets:Checking
+2022-10-03 Ghetto
+	Assets:Checking		$1000.00
+	Income:Salary:Freelancing
