@@ -1,4 +1,6 @@
 ; https://www.ledger-cli.org/3.0/doc/ledger3.html#Introduction-to-Ledger
+; ledger -f main.txt register Assets
+
 2022-09-26 Starting Balance
 	Assets:Checking		$164.00
 	StartingBalance
@@ -10,10 +12,19 @@
 	Assets:Checking
 2022-10-03 Keane
 	Assets:Checking		$250.00
-	Income:Salary:School
+	Income:School
 2022-10-03 Keane
 	Expenses:Miscellaneous	$354.00
 	Assets:Checking
 2022-10-03 Ghetto
 	Assets:Checking		$1000.00
-	Income:Salary:Freelancing
+	Income:Freelancing
+2022-10-04 Keane
+	Assets:Checking		$180.00
+	Income:School
+2022-10-04 Keane
+	Expenses:Food	$250.00
+	Assets:Checking
+2022-10-05 Keane
+	Expenses:Food	$40.00
+	Assets:Checking
