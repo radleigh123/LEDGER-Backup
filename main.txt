@@ -28,3 +28,6 @@
 2022-10-05 Keane
 	Expenses:Food	$40.00
 	Assets:Checking
+2022-10-06 Keane
+	Expenses:Food	$6.00
+	Assets:Checking
