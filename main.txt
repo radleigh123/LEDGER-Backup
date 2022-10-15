@@ -35,5 +35,20 @@
 	Expenses:Food	$10.00
 	Assets:Checking
 2022-10-10 Keane
-	Expenses:Miscellaneous	$142
+	Expenses:Miscellaneous	$142.00
+	Assets:Checking
+2022-10-10 Keane
+	Assets:Checking		$150.00
+	Income:School
+2022-10-10 Keane
+	Expenses:Miscellaneous	$145.00
+	Assets:Checking
+2022-10-11 Keane
+	Assets:Checking		$150.00
+	Income:School
+2022-10-11 Keane
+	Expenses:Miscellaneous	$175.00
+	Assets:Checking
+2022-10-15 Keane
+	Expenses:Miscellaneous	$43.00
 	Assets:Checking
